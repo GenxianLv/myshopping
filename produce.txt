@@ -3,4 +3,4 @@ Fruit & vegetables
 
 Pineapple
 Watermelon
-Bananas
+apples
